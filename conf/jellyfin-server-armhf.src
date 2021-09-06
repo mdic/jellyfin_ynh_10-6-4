@@ -1,0 +1,7 @@
+SOURCE_URL=https://repo.jellyfin.org/releases/server/debian/versions/stable/server/10.6.1/jellyfin-server_10.6.1-1_armhf.deb
+SOURCE_SUM=8dd3f0915e70960576fa0c28bcc0ccecbf0b13ff2abb1f68aff35df3acf01a551dcd248dd6f17b484afb282bd9eb393b14be62633b7aa3f8addf51154435cc64
+SOURCE_SUM_PRG=sha512sum
+SOURCE_FORMAT=deb
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=false
+SOURCE_FILENAME=jellyfin-server.deb

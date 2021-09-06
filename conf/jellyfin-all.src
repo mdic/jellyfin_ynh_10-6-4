@@ -1,0 +1,7 @@
+SOURCE_URL=https://repo.jellyfin.org/releases/server/debian/versions/stable/meta/10.6.4/jellyfin_10.6.4-1_all.deb
+SOURCE_SUM=0713847b2208b4c2dd461b9a481fde7c78825b025a2d1a43d04675928f00bb6c3d644d33f5eac750b5ed6ad1d2141e1cceaa27f828b88f8541726810f7afce08
+SOURCE_SUM_PRG=sha512sum
+SOURCE_FORMAT=deb
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=false
+SOURCE_FILENAME=jellyfin.deb

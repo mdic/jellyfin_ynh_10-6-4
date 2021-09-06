@@ -1,0 +1,7 @@
+SOURCE_URL=http://ftp.br.debian.org/debian/pool/main/libb/libbluray/libbluray1_0.9.3-3_amd64.deb
+SOURCE_SUM=c2eee8996b6387f70723f7949f9f4e5597773109bc39bcb65819d132698182f2ec2cac6b8ed423a4a5ee674cb0a1af904174c7c6807b35e39c8954aff809958f
+SOURCE_SUM_PRG=sha512sum
+SOURCE_FORMAT=deb
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=false
+SOURCE_FILENAME=libbluray1.deb
